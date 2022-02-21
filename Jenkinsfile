@@ -1,6 +1,6 @@
 pipeline {
     environment {
-        registry = "continuouslee/person-api"
+        registry = "sidmehra9/spinnaker-repo"
         registryCredential = "dockerhub"
         dockerImage = ""
     }
